@@ -1,0 +1,19 @@
+.chart-container {
+  display: flex;
+  width: 720px;
+}
+
+.col-large {
+  max-width: 600px;
+  overflow-x: scroll;
+}
+
+.col-small {
+  width: 16px;
+}
+
+.box {
+  width: calc(1575px - 15px);
+  
+  height: 500px;
+}
